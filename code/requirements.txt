@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 steam[client]~=1.4.4
 vdf~=3.4
 geoip2~=4.8.0
+=======
+steam[client]~=1.4.4
+vdf~=3.4
+geoip2~=4.8.0
+>>>>>>> 076f5799d9d178654732aa47d47e19da17e1a0bf
 requests~=2.31.0
